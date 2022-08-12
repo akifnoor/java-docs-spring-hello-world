@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'hdps'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18DF55BC05AC42DDA1BBC152706602D3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FF4BA250CF946338AA2644F43ADD3A6 }}
           package: '*.war'
